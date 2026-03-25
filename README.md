@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Menna Hany
 
-<!--
-**Manounnaa/Manounnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Developer | AI & Machine Learning Enthusiast | AI Engineer in Progress
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I'm a Computer Science and Artificial Intelligence student at Cairo University, passionate about building intelligent systems.
+
+- 🤖 AI & Machine Learning  
+- 📱 Web & Mobile Development  
+- ⚙️ Problem Solving & Software Engineering  
+
+---
+
+## 🚀 Projects
+- 🔹 Sagely AI Chatbot  
+- 🔹 Facial Expression Recognition  
+- 🔹 Optimization Algorithms  
+
+---
+
+## 🛠️ Skills
+C++ | Python | Java | JavaScript | Dart | C#
+
+---
+
+## 🎓 Education
+Cairo University — Artificial Intelligence  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Manounnaa&show_icons=true)
+
+---
+
+## 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=Manounnaa&color=blue)
