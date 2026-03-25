@@ -35,5 +35,4 @@ Cairo University — Artificial Intelligence
 
 ---
 
-## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=Manounnaa&color=blue)
